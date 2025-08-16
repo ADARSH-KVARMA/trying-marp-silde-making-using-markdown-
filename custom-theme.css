@@ -1,0 +1,12 @@
+/* custom-theme.css */
+@import 'default';
+
+section {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #ffffff;
+}
+
+section.lead h2 {
+  color: #D0104C;
+  font-weight: 700;
+}
