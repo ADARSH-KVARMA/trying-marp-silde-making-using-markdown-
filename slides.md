@@ -17,7 +17,7 @@ style: |
 <!-- _backgroundImage: url('./images/bg.png') -->
 
 # Product Documentation Overview  
-**24f1000922@ds.study.iitm.ac.in**
+** 24f1000922@ds.study.iitm.ac.in **
 
 ---
 
@@ -60,5 +60,5 @@ Used for our main data processing engine to ensure efficient scalability.
 ## 🙏 Thank You!
 
 **Need help or feedback?**  
-📧 24f1000922@ds.study.iitm.ac.in
+📧  email: 24f1000922@ds.study.iitm.ac.in
 
