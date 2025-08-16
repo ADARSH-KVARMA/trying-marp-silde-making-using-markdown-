@@ -6,7 +6,11 @@ paginate-format: "Page: %current% / %total%"
 style: |
   h1 {
     color: #0B57D0;
-    font-size: 2.5rem;
+    font-size: 2.6rem;
+  }
+  h2 {
+    color: #D0104C;
+    font-size: 2rem;
   }
 ---
 
@@ -17,25 +21,44 @@ style: |
 
 ---
 
-## Key Features <!-- _class: lead -->
+## 📦 Product Features <!-- _class: lead -->
 
-- Easy Integration 🚀
-- API Driven  
-- Scalable Architecture
+- Modular architecture  
+- Fully documented API  
+- Cross-platform support  
+- 📈 Scalable performance
 
 ---
 
-## Algorithm Complexity
+## 🧠 Use-Case Examples
 
-To assess performance:
+1. Integration with CRM  
+2. Real-time analytics dashboard  
+3. Automated reporting for stakeholders
+
+---
+
+## ⚙️ Algorithmic Complexity
 
 \[
 T(n) = O(n \log n)
 \]
 
+Used for our main data processing engine to ensure efficient scalability.
+
 ---
 
-## Thank You!
+## 📄 Release Details
 
-Feel free to reach out at  
-**24f1000922@ds.study.iitm.ac.in**
+| Version | Status      | Release Date |
+|--------|-------------|--------------|
+| 1.0.0  | Stable      | Jan 2024     |
+| 1.1.0  | Upcoming 🚧 | Oct 2024     |
+
+---
+
+## 🙏 Thank You!
+
+**Need help or feedback?**  
+📧 24f1000922@ds.study.iitm.ac.in
+
